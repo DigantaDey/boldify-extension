@@ -137,7 +137,7 @@ extension/
 │   └── icon128.png
 ├── README.md           # This file
 ├── PRIVACY.md          # Privacy policy
-└──  LICENSE             # MIT License
+└── LICENSE             # MIT License
 ```
 
 ---

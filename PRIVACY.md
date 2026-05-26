@@ -1,6 +1,6 @@
 # Privacy Policy for Boldify Reading Assistant
 
-**Last Updated:** January 2025
+**Last Updated:** May 2026
 
 ## Overview
 
@@ -115,7 +115,7 @@ If we make changes to this privacy policy, we will:
 
 Boldify is open source. You can review our complete source code to verify our privacy practices:
 
-🔗 **GitHub Repository:** [github.com/boldify/boldify-extension](https://github.com/boldify/boldify-extension)
+🔗 **GitHub Repository:** [github.com/DigantaDey/boldify-extension](https://github.com/DigantaDey/boldify-extension)
 
 ---
 
@@ -123,8 +123,8 @@ Boldify is open source. You can review our complete source code to verify our pr
 
 If you have questions about this privacy policy or Boldify's data practices:
 
-- **GitHub Issues:** [Submit a question](https://github.com/boldify/boldify-extension/issues)
-- **Email:** privacy@boldify.app (if applicable)
+- **GitHub Issues:** [Submit a question](https://github.com/DigantaDey/boldify-extension/issues)
+- **Email:** diganta.dey2013@gmail.com (if applicable)
 
 ---
 

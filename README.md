@@ -168,8 +168,7 @@ Read our full [Privacy Policy](PRIVACY.md).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/boldify/boldify-extension.git
-   cd boldify-extension
+   git clone https://github.com/DigantaDey/boldify-extension.git
    ```
 
 2. Load in Chrome:

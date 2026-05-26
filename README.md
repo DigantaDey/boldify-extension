@@ -2,7 +2,7 @@
 
 > **Read Faster. Focus Better. Comprehend More.**
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Get_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Get_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/fdplmdppacojbngmlibekjdipeiankal?utm_source=item-share-cb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 
@@ -43,7 +43,7 @@ Boldify is a free, open-source Chrome extension that transforms any webpage into
 
 ### From Chrome Web Store (Recommended)
 
-1. Visit the [Chrome Web Store listing](https://chrome.google.com/webstore)
+1. Visit the [Chrome Web Store listing](https://chromewebstore.google.com/detail/fdplmdppacojbngmlibekjdipeiankal?utm_source=item-share-cb)
 2. Click **"Add to Chrome"**
 3. Click the Boldify icon in your toolbar to get started
 
@@ -51,8 +51,7 @@ Boldify is a free, open-source Chrome extension that transforms any webpage into
 
 ```bash
 # Clone the repository
-git clone https://github.com/boldify/boldify-extension.git
-cd boldify-extension
+git clone https://github.com/DigantaDey/boldify-extension.git
 ```
 
 1. Open `chrome://extensions/` in Chrome

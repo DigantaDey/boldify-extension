@@ -137,8 +137,7 @@ extension/
 │   └── icon128.png
 ├── README.md           # This file
 ├── PRIVACY.md          # Privacy policy
-├── LICENSE             # MIT License
-└── CHROME_STORE_LISTING.md  # Store listing details
+└──  LICENSE             # MIT License
 ```
 
 ---
